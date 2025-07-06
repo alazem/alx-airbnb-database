@@ -1,4 +1,4 @@
-Index Performance Optimization Report
+*Index Performance Optimization Report*
 1. Introduction
 This report details the process of identifying and implementing database indexes to optimize query performance for the Airbnb Clone application. The primary goal is to reduce query execution time for common read operations by creating indexes on high-usage columns.
 
